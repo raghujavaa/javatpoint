@@ -24,12 +24,9 @@ public class FetchRecordsBatchProcessing {
 	}
 }
 /*
- * Let's see the simple example of batch processing in jdbc. It follows following steps:
-
- Load the driver class
- Create Connection
- Create Statement
- Add query in the batch
- Execute Batch
- Close Connection
+ * Let's see the simple example of batch processing in jdbc. It follows
+ * following steps:
+ * 
+ * Load the driver class Create Connection Create Statement Add query in the
+ * batch Execute Batch Close Connection
  */
